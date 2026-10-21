@@ -1,0 +1,11 @@
+{
+  "name": "typescript-assignment",
+  "version": "1.0.0",
+  "description": "TypeScript assignment - classes, access modifiers, abstract classes, interfaces and generics",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
